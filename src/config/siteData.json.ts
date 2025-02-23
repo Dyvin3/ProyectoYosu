@@ -19,9 +19,9 @@ const siteData: SiteDataProps = {
   name: "Sr. XYZ",
   // Your website's title and description (meta fields)
   title:
-    "Proyecto Moto Cadiz - a beautiful photography website template made with Astro and Tailwind CSS",
+    "Proyecto Moto Cadiz - Mis rutitas en moto",
   description:
-    "Get your next website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+    "Mis rutas en moto.",
   useViewTransitions: true,
   // Your information!
   author: {

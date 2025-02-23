@@ -33,8 +33,8 @@ const navConfig: navItem[] = [
         link: "/portfolio/couple-1",
       },
       {
-        text: "Legal",
-        link: "/privacy-policy/",
+        text: "Ejemplo Blog Post",
+        link: "/blog-post-prueba-yosu/",
       },
       {
         text: "Elements",

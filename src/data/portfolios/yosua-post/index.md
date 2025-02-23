@@ -1,13 +1,13 @@
 ---
-title: Recuerdos de mis partes
+title: Recuerdos de mis partes pudientas
 description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
-heroImage: ./couple-9-square.jpg
+heroImage: ./Bon Jovi.jpg
 date: "Feb 5 2025"
-location: Malibu, California
+location: Cadiz, Vejer
 clients: [El Yosua Crimpeador, Marco]
 images:
   [
-    [./couple-2-min-1.jpg, ./seals-min-1.jpg],
+    [./couple-2-min-1.jpg, ./Bon Jovi.jpg],
     [./rings-wood-min-1.jpg, ./seals-min-1.jpg, ./rings-wood-min-1.jpg],
     [./couple-9-1.jpg],
     [./cake-min-1.jpg, ./dress-min-1.jpg],

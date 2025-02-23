@@ -21,3 +21,10 @@ pnpm-debug.log*
 
 # Local Netlify folder
 .netlify
+
+
+firebase-tools-instant-win.exe
+firebase.exe
+.firebaserc
+firebase.json
+.firebase/

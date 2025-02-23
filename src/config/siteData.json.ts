@@ -19,13 +19,13 @@ const siteData: SiteDataProps = {
   name: "Sr. XYZ",
   // Your website's title and description (meta fields)
   title:
-    "Horizon - a beautiful photography website template made with Astro and Tailwind CSS",
+    "Proyecto Moto Cadiz - a beautiful photography website template made with Astro and Tailwind CSS",
   description:
     "Get your next website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
   useViewTransitions: true,
   // Your information!
   author: {
-    name: "Cosmic Themes",
+    name: "Jesus L.",
     email: "creator@cosmicthemes.com",
     twitter: "Cosmic_Themes",
   },
